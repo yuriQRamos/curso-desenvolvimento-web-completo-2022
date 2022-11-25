@@ -1,0 +1,38 @@
+body{
+    background: #D2D2C1 url('/2 - CSS/Projetos/Projeto Anna Bella/imgs/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+}
+
+#menu{
+    background: #C5C5B2;
+    padding: 18px;
+}
+
+a{
+    color: #4B566A;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo{
+    background: #E8E8D9;
+    padding: 10px;
+}
+
+.img-campanha{
+    border: 10px solid #C3C3AE;
+}
+
+#rodape{
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
