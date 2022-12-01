@@ -1,0 +1,30 @@
+a{
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/*Estados*/
+
+/*Links não visitados*/
+
+a:link{
+    color: #B9C941;
+}
+
+/*Links visitados*/
+
+a:visited{
+    color: #C0C0C0;
+}
+
+/*Link hover, passa o cursor em cima do link*/
+
+a:hover{
+    background: #6D790F;
+}
+
+/*Links ativos, quando clicado*/
+
+a:active{
+    color: #E4F371;
+}
